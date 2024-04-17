@@ -2,7 +2,6 @@ let accessToken = "";
 const clientID = "6f540d38a7894e969e7184b62bbbee0f";
 const redirectUrl = "https://marionmrl-jammming.surge.sh";
 
-
 const Spotify = {
   getAccessToken() {
 
