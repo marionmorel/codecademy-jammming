@@ -35,3 +35,13 @@
     font-weight: 300;
     color: rgba(256, 256, 256, 0.8);
 }
+
+@media only screen and (max-width: 600px) {
+    .Track-information h3 {
+        font-size: 0.7rem;
+    }
+
+    .Track-information p {
+        font-size: 0.5rem;
+    }
+}
